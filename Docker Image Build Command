@@ -1,0 +1,1 @@
+docker build -t trivia_bot -f /home/vandypointe2/Documents/Trivia_Bot/Dockerfile.txt .
